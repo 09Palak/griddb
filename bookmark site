@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bookmark Manager</title>
+</head>
+<body>
+    <h1>My bookmarks</h1>
+    <h2>Primary Bookmarks</h2>
+    <p>
+     <a target="_blank"href="http://www.google.com">Open Google</a>
+    </p>
+    <p><a target="_blank"href="http://www.cuims.com">Open chandigarh university account</a></p>
+    <p><a target="_blank"href="http://www.Youtube.com">Open Youtube</a></p>
+    <p><a target="_blank"href="http://www.instagram.com">Open instagram</a></p>
+    <p><a target="_blank"href="http://www.quora.com">Open quora</a></p>
+    <h2>secondary Bookmarks</h2>
+    <p><a target="_blank"href="http://www.chatgpt.com">Open Chat GPT</a></p>
+    <p><a target="_blank"href="http://www.Whatsapp.com">Open Whatsapp</a></p>
+</body>
+</html>
